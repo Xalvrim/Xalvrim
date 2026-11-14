@@ -6,7 +6,7 @@
 
 <img src="skills.svg" width="100%" alt="Build atual: C#, .NET, ASP.NET Core, Entity Framework, Angular, TypeScript, SQL Server, Azure, AWS, Docker, Kubernetes, CI/CD, TDD, SDD, DDD e IA aplicada">
 
-<img src="conquistas.svg?v=2" width="100%" alt="Conquistas: Level up relâmpago, Do help desk ao código, Domador multi-tenant, Teste antes do código, Deploy sem medo e Maestro de agentes">
+<img src="conquistas-v2.svg" width="100%" alt="Conquistas: Level up relâmpago, Do help desk ao código, Domador multi-tenant, Teste antes do código, Deploy sem medo e Maestro de agentes">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xalvrim/xalvrim/output/cobrinha-dark.svg">
