@@ -1,4 +1,4 @@
-name: Gerar cobrinha
+name: SnakeGame
 
 on:
   schedule:
