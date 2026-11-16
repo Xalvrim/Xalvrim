@@ -12,8 +12,8 @@
 
 <img src="projetos.svg" width="100%" alt="Projetos">
 
-<img src="projeto-erp.svg" width="49%" alt="ERP de saúde, Saúde One Sistemas: ERP usado por hospitais e clínicas em todo o Brasil. Em produção.">
-<img src="projeto-iab.svg" width="49%" alt="Sistemas sob medida, IAB Codelabs: aplicações web e APIs REST para clientes de vários segmentos. Concluída.">
+<a href="https://github.com/saudeone"><img src="projeto-erp.svg" width="49%" alt="ERP de saúde, Saúde One Sistemas: ERP usado por hospitais e clínicas em todo o Brasil. Em produção."></a>
+<a href="https://github.com/iab-codelabs"><img src="projeto-iab.svg" width="49%" alt="Sistemas sob medida, IAB Codelabs: aplicações web e APIs REST para clientes de vários segmentos. Concluída."></a>
 <a href="https://github.com/xalvrim/xalvrim"><img src="projeto-perfil.svg" width="49%" alt="Este perfil: README gamificado com SVGs animados e GitHub Actions"></a>
 <a href="mailto:alvaromr08@hotmail.com"><img src="projeto-proximo.svg" width="49%" alt="Próxima missão: tem um desafio em .NET, Angular ou saúde digital? Me mande um e-mail."></a>
 
